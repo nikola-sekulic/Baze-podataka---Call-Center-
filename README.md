@@ -1,7 +1,7 @@
 Baze podataka
 Specifikacija, ER i relacioni model baze podataka call centra
 
-• Sadržaj PDF fajla
+• Sadržaj PDF fajla:
 
 • Opis poslovnog domena
 
